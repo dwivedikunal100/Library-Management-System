@@ -11,7 +11,7 @@ To run this website.
 
 4.Run apache and mysql server
 
-5.Run sql file from the MySql server to create tables.
+5.Run connectdb.php file on browser to create table and columns
 
 6.Open in webbroweser: localhost to start website.
 
